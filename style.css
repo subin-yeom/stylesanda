@@ -63,9 +63,6 @@
 
 /* Media Query : 미디어 쿼리, 장치 파악용 at-rule */
 @media screen and (max-width: 412px) { /* screen, min-width : 조건(query) */
-    /* body { */
-      color: white;
-    }
     img,
     picture,
     video {
@@ -108,6 +105,4 @@
     #footer {
         color: black
     }
-  }
-
- 
+}
